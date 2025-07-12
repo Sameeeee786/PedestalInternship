@@ -10,8 +10,6 @@ This submission contains a fully responsive landing page designed for:
 - 📱 Mobile – `mobile.pdf`
 - 📒 Tablet – `ipad.pdf`
 
-## 🔗 Figma Design File:
-[Click here to view the Figma File](https://www.figma.com/file/your-public-link-here)
 
 ## Tools Used:
 - Figma
